@@ -24,7 +24,7 @@ const questions = [
         text: "Which property updates the text inside an element?",
         answers: ["textContent", "value", "hidden"],
         correct: 0,
-        explanation: "textContent reads or replaces an element's text."
+        explanation: "textContent read or replaces an element's text."
     }
 ]
 
